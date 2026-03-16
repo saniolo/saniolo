@@ -57,8 +57,8 @@ Flutter app for **automated business card scanning**.
 - Save contacts to device and CRM  
 - Directly call saved contacts  
 
-#### 5️⃣ **Digital Factory 4.0**  
-NodeJS **Industry 4.0 solution** for machine communication and Logstash integration.  
+#### 5️⃣ **Digital Factory 5.0**  
+NodeJS **Industry 5.0 solution** for machine communication and Logstash integration.  
 - REST API for machine management  
 - Multi-database support (MongoDB, PostgreSQL)  
 - Windows service with PM2 and automation  
